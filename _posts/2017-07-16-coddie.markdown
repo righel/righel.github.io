@@ -4,5 +4,7 @@ title:  "CODENAME: CODDIE"
 date:   2017-07-16 14:52:13 -0300
 categories: electronics programming 3dprinting
 ---
+![CODDIE Render]({{ "/coddie_blue_render.png" | absolute_url }})
+
 CODDIE project description.
 Fusion 360 Photos.
