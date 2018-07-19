@@ -4,7 +4,29 @@ title:  "CODENAME: CODDIE"
 date:   2017-07-16 14:52:13 -0300
 categories: electronics programming 3dprinting
 ---
-![CODDIE Render]({{ "/_posts/coddie_blue_render.png" | absolute_url }})
+![CODDIE Render]({{ "/assets/coddie_blue_render.png" | absolute_url }})
 
-CODDIE project description.
-Fusion 360 Photos.
+CODDIE was a project I did while working at Kiyok, the idea was to develop an opensource toy to encourage kids to learn programming basics.
+Part of the motivation was to learn how to design things with Autodesk Fusion 360, which is an amazing tool and combine that knowledge with 3D Printing and Arduino. The main logic board was a NodeMCU, which had several sensor shield boards connected to it that served as inputs for the robot. These sensors enabled the robot to:
+* Follow lines in the floor
+* Detect sounds / clapping
+* Measure distances
+* Move it's wheels precisely due to the encoder attached to them
+
+The robot output communication was a RGB led strip acting sort of like the Knight Rider car. 
+The project is currently abandoned because I don't have time now, also I found that there were several (commercial) similar projects and got me a bit frustrated.
+Nevertheless, it was fun to do it and I learned a lot of the Fusion 360 tools, like rendering, joints, animations, etc.
+
+Some more project photos and videos:
+![CODDIE Render]({{ "/assets/coddie_exploded_view.png" | absolute_url }})
+![CODDIE Render]({{ "/assets/coddie_internals.png" | absolute_url }})
+
+| Assembly | Sonar |
+|-------|--------|---------|
+| ![CODDIE Render]({{ "/assets/coddie_case_lock.gif" | absolute_url }}) | ![CODDIE Render]({{ "/assets/coddie_eye_movement.gif" | absolute_url }}) |
+
+
+
+
+* Comming soon: real photos and videos of the actual prototype!
+
