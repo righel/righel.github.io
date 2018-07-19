@@ -12,6 +12,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Custom settings
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

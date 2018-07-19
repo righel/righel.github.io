@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "CODENAME: CODDIE"
+image: coddie_blue_render.png
 date:   2017-07-16 14:52:13 -0300
 categories: electronics programming 3dprinting
 ---
 ![CODDIE Render]({{ "/assets/coddie_blue_render.png" | absolute_url }})
 
 CODDIE was a project I did while working at Kiyok, the idea was to develop an opensource toy to encourage kids to learn programming basics.
+<!--more-->
 Part of the motivation was to learn how to design things with Autodesk Fusion 360, which is an amazing tool and combine that knowledge with 3D Printing and Arduino. The main logic board was a NodeMCU, which had several sensor shield boards connected to it that served as inputs for the robot. These sensors enabled the robot to:
 * Follow lines in the floor
 * Detect sounds / clapping
