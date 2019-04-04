@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "MIKE"
+# image: coddie_blue_render.png
+date:   2018-04-16 14:52:13 -0300
+categories: electronics programming 3dprinting
+---
+![CODDIE Render]({{ "/assets/mike_oled.jpg" | absolute_url }})
+
+My friend Mike asked me if I could make a device to measure the temperature of the exhaust of his heavily-customized [_Mad Max style_](/assets/mike_madmax.jpg) two-stroke motorbike.
+<!--more-->
+So, challenge accepted, I bought some arduino electronics and came out with this project. 
+The target motorbike:
+
+Parts:
+* Temperature sensor with a Max6675 (0ºC a 800ºC)
+* Arduino Pro Micro
+* OLED screen
+
+Some more project photos and videos:
+![MIKE Render]({{ "/assets/mike_render.png" | absolute_url }})
+![MIKE Internals]({{ "/assets/mike_internals.jpg" | absolute_url }})
+![Mike 3D Printed]({{ "/assets/mike_3d_printed.jpg" | absolute_url }})
+
+| Video |
+|-------|
+| ![Mike 3D Printed]({{ "/assets/mike_video.gif" | absolute_url }}) |
+|_it wouldn't be a complete project without an easter egg_|
