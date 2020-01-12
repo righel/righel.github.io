@@ -10,7 +10,7 @@ I was experiencing overheating issues with my personal laptop, so I decided to a
 <!--more-->
 There are several laptop risers in the market, some of them even with built-in coolers. But why would I buy something if I can create it on my own and have fun in the process? Specially in a rainy winter weekend with not much else to do.
 
-I remember I saw somewhere online a minimal design for this but for a macbook, but heck it's a simple thing, so I did it from scratch. Another source of inspiration was the [_cosito de la pizza_](https://en.wikipedia.org/wiki/Pizza_save) or _pizza saver_, one of our proud inventions among argentinians.
+I remember I saw somewhere online a minimal design for this but for a macbook, but heck it's a simple thing, so I did it from scratch. Another source of inspiration was the [_cosito de la pizza_]({{ "/assets/cosito_pizza.jpg" | absolute_url }}) or [_pizza saver_](https://en.wikipedia.org/wiki/Pizza_saver), one of our proud inventions among argentinians.
 
 I designed it with Autodesk Fusion 360 and used a Ender 3 Pro for printing the models and white PETG.
 
