@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "MIKE"
-# image: coddie_blue_render.png
 date:   2018-04-16 14:52:13 -0300
 categories: electronics programming 3dprinting
 ---
-![CODDIE Render]({{ "/assets/mike_oled.jpg" | absolute_url }})
+![Mike OLED]({{ "/assets/mike_oled.jpg" | absolute_url }})
 
 My friend Mike asked me if I could make a device to measure the temperature of the exhaust of his heavily-customized [_Mad Max style_](/assets/mike_madmax.jpg) two-stroke motorbike.
 <!--more-->
