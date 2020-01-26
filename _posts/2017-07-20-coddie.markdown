@@ -2,7 +2,7 @@
 layout: post
 title:  "CODENAME: CODDIE"
 image: coddie_blue_render.png
-date:   2018-07-20 14:52:13 -0300
+date:   2017-07-20 14:52:13 -0300
 categories: electronics programming 3dprinting
 ---
 ![CODDIE Render]({{ "/assets/coddie_blue_render.png" | absolute_url }})
