@@ -10,7 +10,7 @@ I decided to build a coreXY 3D printer based on a open source design called [Sma
 <!--more-->
 All the pieces are designed in a parameterized OpenSCAD project which makes very easy to adapt the dimensions to your needs and materials.
 
-To be honest, I was surprised by the results, didn't expected much because used smaller motors than the usual, and cheap-as-f**k imperial threaded metal rods instead of the hardened steel and rectified ACME ones.
+To be honest, I was surprised by the results, didn't expected much because used smaller motors than the usual.
 
 It was quite easy to assemble and paying it's respects to the [RepRap philosophy](https://reprap.org/wiki/Philosophy) the machine was quickly printing it's own upgrades.
 
