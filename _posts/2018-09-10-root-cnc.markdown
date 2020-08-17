@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Root CNC (DIY CNC)"
+date:   2019-09-10 10:00:00 -0300
+categories: cnc
+---
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/Xib2sAps1wE"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
+For some weird reason my desire to build a CNC router dates my highschool times, when I learned at school to drive stepper motors.
+
+Long time after with some friends we decided to build a CNC router from scratch, using an existing open source design with some personal flavors such as a custom Z-axis designed by me.
+
+The base project was a [RootCNC v3](https://rootcnc.com/machines/root-3/), a relatively simple and inexpensive design.
+
+
+<!--more-->
+It was a beautiful project that involved many hours of 3d printing parts and a couple weekends assembling the machine and tweaking it.
+
+The original Z-axis used linear rails which were quite expensive/difficult to get in Argentina, so I decided to design a brand new mechanism from scratch, surprisingly it worked quite well. I used Autodesk Fusion 360 for the design.
+
+Also, instead of using aluminium square pipes we used rectified steel ones, another huge cost saving.
+
+**Some photos of the making of:**
+
+* Custom Z-axis:
+
+|-------|--------|
+| ![Fusion 360 z-axis]({{ "/assets/cnc/custom-z-axis.jpeg" | absolute_url }}) | ![3d printed z-axis]({{ "/assets/cnc/custom-z-axis-printed.jpeg" | absolute_url }}) |
+
+
+* Things tend to get messy in my apartment... my neighbors, delighted.
+
+![Apartment mess]({{ "/assets/cnc/apartment-mess.jpeg" | absolute_url }})
+
+* First movements...
+
+![First movements]({{ "/assets/cnc/first_movements.gif" | absolute_url }})
+
+* It's alive!
+
+![First cuts]({{ "/assets/cnc/first_cuts.gif" | absolute_url }})
+
+* Maker pride
+
+![RootCNC]({{ "/assets//cnc/cnc_and_me.jpeg" | absolute_url }})
